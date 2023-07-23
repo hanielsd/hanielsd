@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Halefom
 
-- 🔭 I’m currently working as a Full Stack Developer at EMG Consulting and as a Frontend Developer at Rays Technologies.
+- 🔭 I’m currently working as a Full Stack Developer at EMG Consulting and as a Frontend Developer at Ray Technologies.
+- 🌱 I'm currently learning TypeScript and Next.js to enhance my skills as a React developer. TypeScript's static typing and other features can help me improve code quality and maintainability, while Next.js can help me build server-side rendered React applications with ease. I'm excited to apply these new skills to my work and explore new possibilities with React.
 
 <!--
 **hanielsd/hanielsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
