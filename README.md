@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Halefom
+
+- 🔭 I’m currently working as a Full Stack Web Developer at EMG Consulting and as a Frontend React.js Developer at Rays Technologies.
 
 <!--
 **hanielsd/hanielsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
