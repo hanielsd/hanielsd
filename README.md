@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning TypeScript and Next.js to enhance my skills as a React developer. TypeScript's static typing and other features can help me improve code quality and maintainability, while Next.js can help me build server-side rendered React applications with ease. I'm excited to apply these new skills to my work and explore new possibilities with React.
 - 👯 I’m interested in collaborating with other developers to build innovative web applications using React and GraphQL.
 - 💬 Ask me about my favorite tools and libraries for building React applications, such as Redux Toolkit, React Router, Tailwind CSS, Framer Motion, React Query, Socket.IO, Material Tailwind, GraphQL, Axios, and Nginx. I'm happy to share my experience with these technologies and how they can help you build beautiful, responsive, and performant web applications. Let's chat!
+- 📫 You can reach me via email at hannelalex12@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/hanielsd.
 
 <!--
 **hanielsd/hanielsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
