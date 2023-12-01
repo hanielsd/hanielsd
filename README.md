@@ -42,40 +42,40 @@
   <a href="https://tailwindcss.com">
     <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwindcss" width="40">
   </a>  
-  <a href="link">
+  <a href="https://www.mongodb.com">
     <img src="https://cdn.simpleicons.org/mongodb" alt="Mongodb" width="40">
   </a>  
-  <a href="link">
+  <a href="https://www.mysql.com">
     <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40">
   </a>  
-  <a href="link">
+  <a href="https://www.postgresql.org">
     <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40">
   </a>  
-  <a href="link">
+  <a href="https://redis.io">
     <img src="https://cdn.simpleicons.org/redis" alt="Redis" width="40">
   </a>  
-  <a href="link">
+  <a href="https://www.docker.com">
     <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40">
   </a>  
-  <a href="link">
+  <a href="https://www.nginx.com">
     <img src="https://cdn.simpleicons.org/nginx" alt="Nginx" width="40">
   </a>  
-  <a href="link">
+  <a href="https://ubuntu.com">
     <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40">
   </a>  
-  <a href="link">
+  <a href="https://www.linux.org">
     <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40">
   </a>  
-  <a href="link">
+  <a href="https://axios-http.com">
     <img src="https://cdn.simpleicons.org/axios" alt="Axios" width="40">
   </a>  
-  <a href="link">
+  <a href="https://graphql.org">
     <img src="https://cdn.simpleicons.org/graphql" alt="GraphQL" width="40">
   </a>  
-  <a href="link">
+  <a href="https://socket.io">
     <img src="https://cdn.simpleicons.org/socket.io/white" alt="Socket.io" width="40">
   </a>  
-  <a href="link">
+  <a href="https://www.postman.com">
     <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40">
   </a>
   
