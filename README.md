@@ -9,5 +9,9 @@
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://github.com/voodootikigod/logo.js/blob/master/js.jpg" alt="JS logo" width="100" height="100">
+  <img src="https://github.com/voodootikigod/logo.js/blob/master/js.jpg" alt="JS logo" width="50" height="100">
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://abrudz.github.io/logos/Python.svg" alt="Python logo" width="100" height="100">
+</a>
+
