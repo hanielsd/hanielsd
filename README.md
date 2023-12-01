@@ -7,26 +7,22 @@
 - 📫 You can reach me via email at hannelalex12@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/hanielsd. You can also find me on FreeCodeCamp at https://www.freecodecamp.org/halefomalemu, where I'm working on improving my coding skills and completing various challenges and projects. Feel free to connect with me and check out my progress!
 - ⚡ Fun fact: I'm a huge music enthusiast and love listening to songs from different genres and cultures. I find that music can be a great source of inspiration and motivation, and it helps me stay focused and creative throughout the day.
 
-<div class="logo-container">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://github.com/voodootikigod/logo.js/blob/master/js.jpg" alt="JS logo" width="28">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://abrudz.github.io/logos/Python.svg" alt="Python logo" width="28">
-  </a>
-</div>
 
-<style>
-  .logo-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  
-  .logo-container a img {
-    margin: 30px;
-  }
-</style>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="28">
+  </a>
+  <a href="https://docs.python.org">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/python/python.png" alt="Python logo" width="28">
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/typescript/typescript.png" alt="Python logo" width="28">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/html/html.png" alt="Python logo" width="28">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/css/css.png" alt="Python logo" width="28">
+  </a>
+
 
 
