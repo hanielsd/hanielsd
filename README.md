@@ -28,7 +28,7 @@
     <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="40">
   </a>
   <a href="https://expressjs.com">
-    <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="40">
+    <img src="https://cdn.simpleicons.org/express/white" alt="Express.js" width="40">
   </a>  
   <a href="https://react.dev">
     <img src="https://cdn.simpleicons.org/react" alt="React.js" width="40">
@@ -73,7 +73,7 @@
     <img src="https://cdn.simpleicons.org/graphql" alt="GraphQL" width="40">
   </a>  
   <a href="link">
-    <img src="https://cdn.simpleicons.org/socket.io" alt="Socket.io" width="40">
+    <img src="https://cdn.simpleicons.org/socket.io/white" alt="Socket.io" width="40">
   </a>  
   <a href="link">
     <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40">
