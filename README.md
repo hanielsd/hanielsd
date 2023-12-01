@@ -6,3 +6,5 @@
 - 💬 Ask me about my favorite tools and libraries for building React applications, such as Redux Toolkit, React Router, Tailwind CSS, Framer Motion, React Query, Socket.IO, Material Tailwind, GraphQL, Axios, and Nginx. I'm happy to share my experience with these technologies and how they can help you build beautiful, responsive, and performant web applications. Let's chat!
 - 📫 You can reach me via email at hannelalex12@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/hanielsd. You can also find me on FreeCodeCamp at https://www.freecodecamp.org/halefomalemu, where I'm working on improving my coding skills and completing various challenges and projects. Feel free to connect with me and check out my progress!
 - ⚡ Fun fact: I'm a huge music enthusiast and love listening to songs from different genres and cultures. I find that music can be a great source of inspiration and motivation, and it helps me stay focused and creative throughout the day.
+
+[![JavaScript logo](https://github.com/voodootikigod/logo.js/blob/master/js.jpg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
