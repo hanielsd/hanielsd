@@ -21,7 +21,7 @@
     <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/html/html.png" alt="Python logo" width="40">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/css/css.png" alt="Python logo" width="40">
+    <img src="https://cdn.simpleicons.org/css3/blue/dark" alt="Python logo" width="40">
   </a>
 
 
