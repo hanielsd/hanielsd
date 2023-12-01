@@ -9,19 +9,19 @@
 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="28">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="JS logo" width="40">
   </a>
   <a href="https://docs.python.org">
-    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/python/python.png" alt="Python logo" width="28">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/python/python.png" alt="Python logo" width="40">
   </a>
   <a href="https://www.typescriptlang.org">
-    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/typescript/typescript.png" alt="Python logo" width="28">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/typescript/typescript.png" alt="Python logo" width="40">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/html/html.png" alt="Python logo" width="28">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/html/html.png" alt="Python logo" width="40">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/css/css.png" alt="Python logo" width="28">
+    <img src="https://github.com/abrahamhba/programming-languages-logos/blob/master/src/css/css.png" alt="Python logo" width="40">
   </a>
 
 
