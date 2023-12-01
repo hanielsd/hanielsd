@@ -25,7 +25,7 @@
   }
   
   .logo-container a img {
-    margin: 10px;
+    margin: 30px;
   }
 </style>
 
