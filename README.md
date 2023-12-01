@@ -11,7 +11,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://github.com/voodootikigod/logo.js/blob/master/js.jpg" alt="JS logo" width="28">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="padding-left: 20px;">
   <img src="https://abrudz.github.io/logos/Python.svg" alt="Python logo" width="28">
 </a>
 
