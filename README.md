@@ -1,10 +1,10 @@
 ### Welcome! I'm Halefom, a passionate Full Stack Developer
 
-- 🔭 I’m currently working as a Full Stack Developer at EMG Consulting.
-- 👯 I’m interested in collaborating with other developers to build innovative web applications using advanced technologies.
+- 🚀 Currently, I’m working as a Full Stack Developer at EMG Consulting.
+- 🤝 Eager to team up with fellow developers to innovate with advanced technologies.
 - 💬 Ask me about MERN tech stack tools. I'm happy to share my experience. Let's chat!
-- 📫 You can reach me via email at hannelalex12@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/hanielsd. Feel free to connect with me
-- ⚡ Fun fact: I'm a huge music enthusiast and love listening to songs from different genres and cultures.
+- 📫 You can reach me via email at [hannelalex12@gmail.com](mailto:hannelalex12@gmail.com) or connect with me on LinkedIn at [LinkedIn Profile](https://www.linkedin.com/in/hanielsd). Feel free to connect with me
+- ⚡ Fun fact: Besides coding, I'm a huge music enthusiast
 
 ## Skills
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
