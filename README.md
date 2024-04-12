@@ -1,4 +1,4 @@
-### Welcome! I'm Halefom
+### Hi there 👋, I'm Halefom
 
 - 🚀 Currently, I’m working as a Full Stack Developer at EMG Consulting.
 - 🤝 Eager to team up with fellow developers to innovate.
