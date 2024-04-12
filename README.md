@@ -4,7 +4,7 @@
 - 🤝 Eager to team up with fellow developers to innovate.
 - 💬 Let's discuss about MERN tech stack tools.
 - 📫 You can reach me via [Gmail](mailto:hannelalex12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hanielsd).
-- ⚡ Fun fact: Besides coding, I'm a huge music enthusiast
+- ⚡ Fun fact: Besides coding, I'm a huge music enthusiast.
 
 ## Skills
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
