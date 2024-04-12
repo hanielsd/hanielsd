@@ -1,9 +1,9 @@
 ### Welcome! I'm Halefom, a passionate Full Stack Developer
 
 - 🚀 Currently, I’m working as a Full Stack Developer at EMG Consulting.
-- 🤝 Eager to team up with fellow developers to innovate with advanced technologies.
-- 💬 Ask me about MERN tech stack tools. I'm happy to share my experience. Let's chat!
-- 📫 You can reach me via [Gmail](mailto:hannelalex12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hanielsd). Let's connect and chat!
+- 🤝 Eager to team up with fellow developers to innovate.
+- 💬 Let's discuss about MERN tech stack tools.
+- 📫 You can reach me via [Gmail](mailto:hannelalex12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hanielsd).
 - ⚡ Fun fact: Besides coding, I'm a huge music enthusiast
 
 ## Skills
