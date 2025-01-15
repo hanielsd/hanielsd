@@ -78,7 +78,7 @@
     <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40">
   </a>
   <a href="https://www.java.com">
-    <img src="https://www.java.com/_cache_8a03/_themesdelivery/JCOM_Base_Theme/assets/img/Java-horz-wht.svg" alt="Java" width="40">
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="Java" width="40">
   </a>
 
   
