@@ -80,7 +80,7 @@
   <a href="https://www.java.com">
     <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" alt="Java" width="40">
   </a>
-  <a href="https://www.java.com">
+  <a href="https://kafka.apache.org/">
     <img src="https://static.cdnlogo.com/logos/k/35/kafka.svg" alt="Kafka" width="30">
   </a>
 
